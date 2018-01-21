@@ -432,7 +432,7 @@ body {
 	position: relative;
 	width: 100%;
 	@media screen and (max-width: $screen-xs) {
-		height: 450px;
+		height: 600px;
 	}
 	.fh5co-overlay {
 		position: absolute;
@@ -450,7 +450,7 @@ body {
 		z-index: 10;
 		position: relative;
 		@media screen and (max-width: $screen-xs) {
-			height: 450px;
+			height: 600px;
 		}
 		> div {
 			vertical-align: middle;

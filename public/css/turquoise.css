@@ -333,7 +333,7 @@ body {
 }
 @media screen and (max-width: 480px) {
   #fh5co-hero {
-    height: 450px;
+    height: 600px;
   }
 }
 #fh5co-hero .fh5co-overlay {
@@ -354,7 +354,7 @@ body {
 }
 @media screen and (max-width: 480px) {
   #fh5co-hero .fh5co-intro {
-    height: 450px;
+    height: 600px;
   }
 }
 #fh5co-hero .fh5co-intro > div {
